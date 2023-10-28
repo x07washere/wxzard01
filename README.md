@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gryynternal&show_icons=true&locale=en" alt="gryynternal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gryynternal&" alt="gryynternal" /></p>
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
