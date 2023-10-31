@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gryynternal&show_icons=true&locale=en" alt="gryynternal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gryynternal&" alt="gryynternal" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/dcd7830a730c9674e2be177ec026b4d8035a15cc71c354e551b50272bcd80887/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d677279796e7465726e616c26" /></p>
