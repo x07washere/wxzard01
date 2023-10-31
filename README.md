@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 What software do I use for programming? **VScode**
 
-- 🖥️ What Operating System do i use? **ArchCraft (OpenBox)**
+- 🖥️ What Operating System do i use? **Fedora 38 (GNOME)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Discord: gryynternal</p>
