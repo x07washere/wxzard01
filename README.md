@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm WxZARD</h1>
 <h3 align="center">Currently Developing in Python (but i will learn java xd)</h3>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/892068551983263774)](https://discord.com/users/892068551983263774)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wxzard01&label=Profile%20views&color=0e75b6&style=flat" alt="wxzard01" /> </p>
 
 - 🔭 I’m currently working on [XDevz](https://dsc.gg/xdevz)
