@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WxZARD</h1>
 <h3 align="center">Currently Developing in Python (but i will learn java xd)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wxzard01&label=Profile%20views&color=0e75b6&style=flat" alt="wxzard01" /> </p>
-[![Discord Presence](https://api.lanyard.rest/v1/users/892068551983263774)](https://discord.com/users/892068551983263774)
+
 - 🔭 I’m currently working on [XDevz](https://dsc.gg/xdevz)
 
 - 👨🏻‍💻 What software do I use for programming? **VScode**
