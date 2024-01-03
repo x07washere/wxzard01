@@ -10,8 +10,6 @@
 - ✗ Which Desktop Environment do i use? **Budgie**
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x07washere&show_icons=true&locale=en&layout=compact" alt="x07washere" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x07washere&show_icons=true&locale=en" alt="x07washere" /></p>
